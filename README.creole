@@ -1,0 +1,8 @@
+= Lift omniauth =
+This is a sample application to test login against
+github using lift-omnitauth.
+
+== About the app ==
+* scala 2.10
+* lift 3
+* sbt 0.13
